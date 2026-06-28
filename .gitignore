@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+dist/
+*.o
+*.so
+*.a
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# FPGA / EDA
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.bit
+*.dcp
+*.rpt
+
+# OS/editor
+.DS_Store
+*~
+*.swp
