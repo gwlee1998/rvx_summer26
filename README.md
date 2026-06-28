@@ -1,4 +1,3 @@
-# rvx_quant_cnn
+# rvx_summer26
 
 Quantized CNN and RVX accelerator workspace.
-
