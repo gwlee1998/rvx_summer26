@@ -1,0 +1,4 @@
+all:./src
+all:./include
+all:../prepost_lenet/include
+all:../../user/api
